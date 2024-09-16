@@ -84,7 +84,7 @@ body{
     font-size: 15px;
 }
 
-#primoLorem{
+#Lorem{
 
     font-size: 18px;
     margin-left: 8px;
@@ -114,6 +114,10 @@ td {
 
 }
 
+table{
+    margin-left: 5px;
+}
+
 #tr1, #tr3{
 
     background-color: #B1E5F2;
@@ -125,4 +129,39 @@ td {
     background-color: aliceblue;
 
 
+}
+
+
+h2{
+
+    margin-left: 8px;
+    font-size: 21px;
+    color: grey;
+
+}
+
+#Lorem2{
+
+    width: 270px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    margin-left: 8px;
+    font-size: 23px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+
+#Lorem3{
+
+    width: 270px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    margin-left: 8px;
+    font-size: 23px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: white;
+    text-align: start;
 }
