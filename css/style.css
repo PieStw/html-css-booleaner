@@ -25,6 +25,31 @@ body{
     margin-top: 75px;
     margin-left: 10px;
 
+}
 
+#titolo {
+
+    font-size: 40px;
+    line-height: 35px;
+    margin-left: 8px;
+    margin-bottom: 0px;
+
+}
+
+#sottotitolo {
+
+    font-size: 22px;
+    margin-left: 8px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+
+}
+
+#datascrittura {
+
+    font-size: 15px;
+    margin-left: 8px;
+    margin-bottom: 0px;
+    margin-top: 4px;
 
 }
