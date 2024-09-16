@@ -97,3 +97,32 @@ body{
 
 
 }
+
+
+#thead{
+    background-color: #20A7E1;
+    color: white;
+    tab-size: 200;
+    text-align: left;
+}
+
+td {
+
+    height: 50px;
+    width: 400px;
+    margin: 0;
+
+}
+
+#tr1, #tr3{
+
+    background-color: #B1E5F2;
+
+}
+
+#tr2{
+
+    background-color: aliceblue;
+
+
+}
