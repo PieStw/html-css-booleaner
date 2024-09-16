@@ -36,6 +36,11 @@ body{
 
 }
 
+
+
+/* Sezione due con titolo e immagini */
+
+
 #sottotitolo {
 
     font-size: 22px;
@@ -46,7 +51,7 @@ body{
 
 }
 
-#datascrittura {
+#dataScrittura {
 
     font-size: 15px;
     margin-left: 8px;
@@ -54,4 +59,27 @@ body{
     margin-top: 4px;
     color: grey;
 
+}
+
+#immaginiTim{
+
+    margin-top: 20px;
+    margin-left: 8px;
+
+}
+
+#primoParagrafoTim{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 8px;
+    font-size: 15px;
+
+}
+
+#secondoParagrafoTim{
+
+    margin-top: 0px;
+    margin-left: 8px;
+    font-size: 15px;
 }
