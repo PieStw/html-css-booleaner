@@ -40,6 +40,9 @@ body{
 
 /* Sezione due con titolo e immagini */
 
+a{
+    text-decoration: none;
+}
 
 #sottotitolo {
 
@@ -116,6 +119,7 @@ td {
 
 table{
     margin-left: 5px;
+    border-collapse: collapse;
 }
 
 #tr1, #tr3{
@@ -164,4 +168,8 @@ h2{
     margin-bottom: 40px;
     color: white;
     text-align: start;
+}
+
+#evidenziato{
+    background-color: yellow;
 }
